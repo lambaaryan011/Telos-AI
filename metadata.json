@@ -1,0 +1,8 @@
+{
+  "name": "Placement-Ready AI: Resume Bullet & ATS Co-Pilot",
+  "description": "AI-powered resume bullet auditor and ATS optimization co-pilot for college students and job seekers targeting APM, SDE, and Data Analyst roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
